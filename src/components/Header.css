@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+
+
+.header{
+  font-family: 'Reggae One', cursive;
+  font-weight: bold;
+  font-size: 50px;
+  letter-spacing: 20px;
+  text-decoration: underline;
+  text-decoration-color: #d87093;
+  color: rgb(95, 95, 95);
+}

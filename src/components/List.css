@@ -1,0 +1,27 @@
+
+.sort-wrapper{
+  margin-bottom: 20px;
+}
+
+.sort-wrapper input{
+  margin: 0px 10px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 72%;
+  margin: 0px auto;
+  margin-bottom: 40px;
+}
+
+td, th {
+  border: 6px solid rgba(221, 221, 221,.8);
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #d87093;
+  color: white;
+}
